@@ -1,1 +1,1 @@
-﻿# WINC_app_dev_lesson_sumire
+﻿# WINC-app-dev-lesson-sumire-group-work-starter
